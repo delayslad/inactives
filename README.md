@@ -1,0 +1,2 @@
+# inactives
+Inactive Records
